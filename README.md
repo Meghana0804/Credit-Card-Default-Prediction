@@ -1,4 +1,4 @@
-# Credit-Card-Default-Prediction
+Credit-Card-Default-Prediction
 
 Variables:¶
 There are 25 variables:
