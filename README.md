@@ -1,6 +1,6 @@
 Credit-Card-Default-Prediction
 
-Variables:¶
+Variables:9
 There are 25 variables:
 
 ID: ID of each client
